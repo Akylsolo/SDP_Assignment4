@@ -1,5 +1,8 @@
 ### IntelliJ IDEA ###
 .idea/
+report.html
+*.pdf
+report.pdf
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
